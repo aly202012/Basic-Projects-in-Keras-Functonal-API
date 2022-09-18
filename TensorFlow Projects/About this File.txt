@@ -1,0 +1,8 @@
+The goal of this File is to upload projects for deep learning using the elegant library TensorFlow, I will upload deep learning projects that I am implementing, in order to contribute to open source projects and share ideas between developers and results of new ideas.
+
+I am Ali Mohammad Bakhiet
+I will be happy to discuss with you and help you solve the problems in front of you.
+Email: alymohammedbakhit2020@gmail.com
+
+Thank you very much .
+be safe
